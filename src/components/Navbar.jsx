@@ -6,6 +6,9 @@ const Navbar = () => {
     { name: "Contact", id: "contact" },
   ];
 
+    
+    
+    
   return (
     <nav className="w-full h-20 sticky top-0 left-0 z-50 bg-white/90 backdrop-blur-md shadow-sm border-b border-gray-100">
       {" "}
